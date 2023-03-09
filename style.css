@@ -1,0 +1,41 @@
+h1 {
+    color:red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+  }
+  
+  p {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  table,td,th {
+    border-color: green;
+    border-style:groove;
+    margin: 0 auto;
+    text-align: center;
+     }
+  
+  th, td {
+    text-align: center;
+    vertical-align: middle;
+  }
+  ul {
+    margin: 0 auto;
+    text-align: center;
+    list-style-position: inside;
+  }
+  
+  li {
+    text-align: center;
+    line-height: 3;
+  }
